@@ -14,4 +14,4 @@ Builds a Docker image, pushes it to GitHub Container Registry (GHCR), caches it 
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE) (or whichever license you choose to assign).
+This repository is licensed under the [MIT License](LICENSE).
